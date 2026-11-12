@@ -48,5 +48,5 @@ I build production web apps end to end, from the interface down to the API and t
 
 ## 📊 GitHub Stats
 
-![Fahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=fshrabon151&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fshrabon151&layout=compact)
+![GitHub followers](https://img.shields.io/github/followers/fshrabon151?style=for-the-badge)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffshrabon151&query=%24.public_repos&label=repos&style=for-the-badge)
